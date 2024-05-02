@@ -1,0 +1,16 @@
+ ##  Diferencias entre Investigación Cualitativa y Cuantitativa
+
+La diferencia fundamental entre la investigación cualitativa y la cuantitativa radica en el enfoque y los objetivos de cada metodología en la recolección y análisis de datos. 
+
+La investigación cualitativa se centra en entender y explorar fenómenos en profundidad, buscando comprender las percepciones, opiniones y motivaciones de los individuos de una manera que no puede cuantificarse. 
+
+Por otro lado, la investigación cuantitativa se enfoca en recolectar datos numéricos que pueden ser sometidos a análisis estadísticos para generalizar resultados a grupos más grandes.
+
+La investigación cualitativa típicamente no busca establecer patrones de comportamiento predictivos, sino más bien entender la naturaleza compleja de las experiencias humanas. Se utiliza frecuentemente en trabajo social debido a su capacidad para abordar las sutilezas y las dimensiones humanas de las situaciones sociales, lo cual es crucial en esta disciplina. 
+
+Los métodos comunes incluyen entrevistas en profundidad, grupos focales, etnografía y análisis de contenido.
+En contraste, la investigación cuantitativa forma hipótesis antes de la recolección de datos y utiliza instrumentos de medición que buscan la objetividad, como encuestas y cuestionarios, con el fin de validar o refutar estas hipótesis. Este tipo de investigación es eficaz para examinar relaciones causales y realizar proyecciones sobre fenómenos observados.
+
+Es esencial reconocer que ambas metodologías, cualitativa y cuantitativa, no son inherentemente contrapuestas ni una es superior a la otra; el uso de una u otra depende de la naturaleza del problema de investigación y del tipo de preguntas que el investigador se propone responder. En muchas ocasiones, combinaciones de ambas metodologías pueden ser utilizadas para obtener una comprensión más rica y multifacética de un tema.
+
+En resumen, mientras que la investigación cuantitativa puede proporcionar información sobre el "qué" y el "cuánto", la investigación cualitativa arroja luz sobre el "cómo" y el "por qué". Esta complementariedad puede ser extraordinariamente valiosa en el campo del trabajo social, donde comprender la dimensión humana y social de los problemas es tan crítico.

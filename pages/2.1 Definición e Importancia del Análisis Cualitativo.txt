@@ -1,0 +1,16 @@
+ ## Definición e Importancia del Análisis Cualitativo
+
+El análisis cualitativo es una metodología de investigación que se basa en la obtención de datos no cuantificables y se centra en entender fenómenos según la perspectiva de los participantes. 
+
+A diferencia del análisis cuantitativo, que busca cuantificar los datos para clasificar características, contarlas y construir modelos estadísticos para intentar explicar lo observado, el análisis cualitativo valora la calidad de los fenómenos y cómo las experiencias de vida individuales influyen en la percepción de estos fenómenos.
+
+Dentro de las ciencias sociales, y particularmente en el trabajo social, el análisis cualitativo juega un papel crucial. 
+Esto se debe a que permite una comprensión más profunda y matizada de las realidades sociales complejas a las que se enfrentan los individuos y comunidades. Por ejemplo, al estudiar casos de integración social de individuos desplazados, un enfoque cualitativo puede ofrecer insights profundos sobre las emociones, pensamientos y experiencias vividas por estas personas, aspectos que generalmente son invisibilizados en los enfoques cuantitativos.
+
+Además, el análisis cualitativo faculta al investigador para crear una conexión más humana con el objeto de estudio.  Esto es especialmente beneficioso en trabajo social, donde entender las sutilezas de las interacciones humanas y los contextos socioculturales es indispensable para la formulación de intervenciones precisas y respetuosas. 
+
+Por ende, este tipo de análisis no solo enriquece la investigación, sino que también refuerza el desarrollo de políticas y programas más adaptados y efectivos.
+
+La importancia del análisis cualitativo también se extiende a su capacidad para generar teorías a partir de los datos obtenidos. A través de técnicas como la narrativa, observación, entrevistas profundas y grupos focales, el investigador puede identificar patrones y temas emergentes que contribuyen a la construcción teórica y práctica en el campo del trabajo social. Asimismo, permite a los investigadores desafiar y expandir las teorías existentes, ofreciendo nuevas dimensiones y entendimientos que pueden pasar desapercibidos en metodologías más rígidas.
+
+En resumidas cuentas, el análisis cualitativo es indispensable en la investigación de trabajo social por su capacidad para entender profundamente las realidades humanas y contribuir a la formulación de soluciones eficaces que mejoren directamente la calidad de vida de las personas. Permite explorar la riqueza de las experiencias humanas, ofreciendo una plataforma sólida para la reflexión crítica y el desarrollo académico y profesional.
